@@ -12,13 +12,6 @@ Master [![Build Status](https://api.travis-ci.org/adamwdraper/Numeral-js.svg)](h
 
 Develop [![Build Status](https://travis-ci.org/adamwdraper/Numeral-js.svg?branch=develop)](https://travis-ci.org/adamwdraper/Numeral-js)
 
-# NPM
-
-[![NPM](https://nodei.co/npm/numeral.svg?downloads=true)](https://nodei.co/npm/numeral/)
-
-#CDNJS
-
-[![CDNJS](https://img.shields.io/cdnjs/v/numeral.js.svg)](https://cdnjs.com/libraries/numeral.js)
 
 # Contributing
 
